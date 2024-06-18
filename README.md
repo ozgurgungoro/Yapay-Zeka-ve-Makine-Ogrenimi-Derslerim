@@ -9,3 +9,5 @@
 
 
 https://derslik.kerteriz.net/python-dersleri/python-giris
+
+https://www.youtube.com/watch?v=I1to--l0Yj8
