@@ -11,3 +11,6 @@
 https://derslik.kerteriz.net/python-dersleri/python-giris
 
 https://www.youtube.com/watch?v=I1to--l0Yj8
+
+
+https://1drv.ms/w/s!AlFcQfW5m-N9cxaOeoDYQk3VrEI?e=xSicSE
