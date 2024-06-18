@@ -7,6 +7,8 @@
 
 <h1>KAYNAKLAR</h1>
 
+** https://www.kaggle.com/learn
+
 
 https://derslik.kerteriz.net/python-dersleri/python-giris
 
