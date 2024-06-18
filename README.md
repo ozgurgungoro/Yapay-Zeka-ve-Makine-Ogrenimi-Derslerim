@@ -14,3 +14,10 @@ https://www.youtube.com/watch?v=I1to--l0Yj8
 
 
 https://1drv.ms/w/s!AlFcQfW5m-N9cxaOeoDYQk3VrEI?e=xSicSE
+
+
+
+
+LİNK :: 
+
+https://www.kaggle.com/ozgurgungor12
