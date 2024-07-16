@@ -3,7 +3,20 @@
 
 
 
-# Yapay-Zeka-ve-Makine-Ogrenimi-Derslerim
+# Yapay Zeka ve Makine Ogrenimi Derslerim
+
+
+
+# Yol Haritam
+
+
+[yol-haritasi.pdf](https://github.com/user-attachments/files/16257111/yol-haritasi.pdf)
+
+
+
+
+
+
 
 <h1>KAYNAKLAR</h1>
 
